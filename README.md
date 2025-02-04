@@ -10,6 +10,8 @@ create a function called `de-vowel()` which will take a string as input and **re
      * what if the string is all vowels?
      * what if there are no vowels?
      * what if there is a mix of vowels and non-vowels and spaces?
+  
+*hint*: your function will need initialize and return a **new** string variable
 
 ### Example
 
