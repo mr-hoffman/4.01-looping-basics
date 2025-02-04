@@ -35,4 +35,5 @@ Use a counter (a variable you define outside of a loop to keep track of a values
 
 ## Snap! challenge -- 10 Cats Drinking Milk from a Saucer
 create the following program in Python:
+![SNAP Script](Snap_script_ten_cats.png)
 
