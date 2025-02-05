@@ -2,7 +2,7 @@
 
 ## Remove the Vowels
 
-create a function called `de-vowel()` which will take a string as input and **return** a copy of that string witl all the vowels removed. A string with no vowels should be returned without any changes.
+create a function called `de_vowel()` which will take a string as input and **return** a copy of that string witl all the vowels removed. A string with no vowels should be returned without any changes.
 
 1. Create the function contract for `de_vowel()`
 2. Write `de_vowel()` using a `for loop`
