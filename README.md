@@ -26,7 +26,7 @@ print(no_vowels)
 # other examples go here
 ```
 example of output
-```python
+```
 >>> python3 de_vowel_lab.py
 Ths sntnc ha n vwls
 ```
